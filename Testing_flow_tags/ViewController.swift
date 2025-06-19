@@ -11,6 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+<<<<<<< HEAD
+=======
+        let x = "Hello, World!"
+>>>>>>> f08d9c2 (Initial Commit)
         // Do any additional setup after loading the view.
     }
 
