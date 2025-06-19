@@ -4,7 +4,7 @@ name: Handle prod_version Tag
 on:
   push:
     tags:
-      - prod_version
+      - prod*
 
 jobs:
   manage-prod-tag:
